@@ -236,7 +236,7 @@ footer .pr {
 }
 /*ta1の左側ボックス*/
 .ta1 th {
-	width: 140px;		/*幅*/
+	width: 70px;		/*幅*/
 	text-align: center;	/*センタリング*/
 	font-weight: normal;
 }
