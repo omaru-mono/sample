@@ -105,6 +105,7 @@ header #logo img {
 	background: transparent;	/*背景色*/
 	margin: 0 3%;		/*上下、左右へのボックスの外に空けるスペース*/
 	padding: 3%;		/*ボックス内の余白*/
+	padding-top: 1%;
 	border-radius: 30px;	/*角丸のサイズ。この行を削除すると角がでます。*/
 }
 /*コンテンツのh2タグの設定*/
@@ -221,7 +222,7 @@ footer .pr {
 	text-align: left;		/*文字を左寄せ*/
 	font-weight: bold;		/*太字に*/
 	padding: 10px;			/*ボックス内の余白*/
-	background: #222;		/*背景色*/
+	background: transparent;		/*背景色*/
 }
 /*ta1設定*/
 .ta1 {
