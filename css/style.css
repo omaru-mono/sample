@@ -102,7 +102,7 @@ header #logo img {
 ---------------------------------------------------------------------------*/
 #contents {
 	overflow: hidden;
-	background: #000;	/*背景色*/
+	background: transparent;	/*背景色*/
 	margin: 0 3%;		/*上下、左右へのボックスの外に空けるスペース*/
 	padding: 3%;		/*ボックス内の余白*/
 	border-radius: 30px;	/*角丸のサイズ。この行を削除すると角がでます。*/
